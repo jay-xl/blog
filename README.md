@@ -1,5 +1,5 @@
 # H-VK 技术文章  
-> 爱读书的孩子，运气都不会太差~~ 
+> 爱读书的孩子，运气都不会太差~~
 
 ![背景图片](https://github.com/SilenceHVK/Articles/raw/master/assets/images/bgImages/bg2.jpg)    
  
@@ -74,7 +74,7 @@
 4. [Symbol 的使用](https://github.com/SilenceHVK/articles/issues/28)
 5. [关于 Class](https://github.com/SilenceHVK/articles/issues/30)
 
-### 解析 jQuery 源码
+### 解析 jQuery 源码 
 
 1. [从前端工程目录开始](https://github.com/SilenceHVK/articles/issues/34)
 
