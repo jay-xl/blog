@@ -110,4 +110,3 @@
 ## 工具篇
 
 - [【Dev-Environment】MacOS 环境搭建](https://github.com/SilenceHVK/articles/issues/59)
-- [【Dev-Tool】Nginx 入门到实战](https://github.com/jay-xl/blog/issues/1)
